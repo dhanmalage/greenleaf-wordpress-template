@@ -1,0 +1,8 @@
+.se-pre-con p{
+	text-align: center;
+	margin-top: 15%;
+	width: 100%;
+	z-index: 9999;
+	color: #89a831;
+    font-size: 24px;
+}
